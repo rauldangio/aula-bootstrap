@@ -1,0 +1,39 @@
+
+
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.navbar{
+    background-color: darkblue;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.quem-somos{
+    background-color: blueviolet;
+    color: whitesmoke;
+    margin: 0;
+}
+
+.margin{
+    padding-top: 30px;   
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: brown;
+}
+.jogos{
+ background-color: darkgreen;
+}
+
+.rodape{
+    background-color: #312312;
+    color: white;
+    
+}
